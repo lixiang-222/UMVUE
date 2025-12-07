@@ -1,0 +1,112 @@
+***************[MF-MRDR-JL]***************
+0.01 5e-05 16
+[MF-MRDR-JL] test mse: 0.30339022438170826
+[MF-MRDR-JL] test auc: 0.7003688444328098
+[MF-MRDR-JL] ndcg@20:0.584654, ndcg@50:0.687459
+[MF-MRDR-JL] recall@20:0.407793, recall@50:0.756978
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.01 5e-05 32
+[MF-MRDR-JL] test mse: 0.3155061161608768
+[MF-MRDR-JL] test auc: 0.6954199453913094
+[MF-MRDR-JL] ndcg@20:0.591590, ndcg@50:0.690503
+[MF-MRDR-JL] recall@20:0.401699, recall@50:0.750341
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.01 0.0001 16
+[MF-MRDR-JL] test mse: 0.2741287608150522
+[MF-MRDR-JL] test auc: 0.7062139040696621
+[MF-MRDR-JL] ndcg@20:0.593142, ndcg@50:0.695482
+[MF-MRDR-JL] recall@20:0.412334, recall@50:0.764492
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.01 0.0001 32
+[MF-MRDR-JL] test mse: 0.28273377140096645
+[MF-MRDR-JL] test auc: 0.6995724921794844
+[MF-MRDR-JL] ndcg@20:0.589881, ndcg@50:0.689680
+[MF-MRDR-JL] recall@20:0.406123, recall@50:0.755756
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.01 0.0005 16
+[MF-MRDR-JL] test mse: 0.1951696903818857
+[MF-MRDR-JL] test auc: 0.7417658131750038
+[MF-MRDR-JL] ndcg@20:0.655841, ndcg@50:0.736035
+[MF-MRDR-JL] recall@20:0.456135, recall@50:0.783978
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.01 0.0005 32
+[MF-MRDR-JL] test mse: 0.1982058297152277
+[MF-MRDR-JL] test auc: 0.7438630288760236
+[MF-MRDR-JL] ndcg@20:0.653407, ndcg@50:0.737377
+[MF-MRDR-JL] recall@20:0.454148, recall@50:0.787751
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.01 0.001 16
+[MF-MRDR-JL] test mse: 0.1892150862284305
+[MF-MRDR-JL] test auc: 0.7509470747554213
+[MF-MRDR-JL] ndcg@20:0.685670, ndcg@50:0.756998
+[MF-MRDR-JL] recall@20:0.472674, recall@50:0.794483
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.01 0.001 32
+[MF-MRDR-JL] test mse: 0.1892438093424072
+[MF-MRDR-JL] test auc: 0.7536672008998033
+[MF-MRDR-JL] ndcg@20:0.691912, ndcg@50:0.759145
+[MF-MRDR-JL] recall@20:0.479045, recall@50:0.795007
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.05 5e-05 16
+[MF-MRDR-JL] test mse: 0.2952027767732987
+[MF-MRDR-JL] test auc: 0.6999515129911223
+[MF-MRDR-JL] ndcg@20:0.598730, ndcg@50:0.693018
+[MF-MRDR-JL] recall@20:0.414985, recall@50:0.752090
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.05 5e-05 32
+[MF-MRDR-JL] test mse: 0.33830253125746
+[MF-MRDR-JL] test auc: 0.6701371670453109
+[MF-MRDR-JL] ndcg@20:0.562616, ndcg@50:0.663831
+[MF-MRDR-JL] recall@20:0.382370, recall@50:0.727873
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.05 0.0001 16
+[MF-MRDR-JL] test mse: 0.26723897116905326
+[MF-MRDR-JL] test auc: 0.7018843803050938
+[MF-MRDR-JL] ndcg@20:0.596329, ndcg@50:0.693099
+[MF-MRDR-JL] recall@20:0.413909, recall@50:0.756697
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.05 0.0001 32
+[MF-MRDR-JL] test mse: 0.30021222580939316
+[MF-MRDR-JL] test auc: 0.6805263843815089
+[MF-MRDR-JL] ndcg@20:0.576512, ndcg@50:0.673080
+[MF-MRDR-JL] recall@20:0.395043, recall@50:0.735793
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.05 0.0005 16
+[MF-MRDR-JL] test mse: 0.1903500118674173
+[MF-MRDR-JL] test auc: 0.7390773887142007
+[MF-MRDR-JL] ndcg@20:0.654722, ndcg@50:0.736340
+[MF-MRDR-JL] recall@20:0.452588, recall@50:0.783206
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.05 0.0005 32
+[MF-MRDR-JL] test mse: 0.1994650612649273
+[MF-MRDR-JL] test auc: 0.7206925765124649
+[MF-MRDR-JL] ndcg@20:0.635430, ndcg@50:0.718041
+[MF-MRDR-JL] recall@20:0.437174, recall@50:0.767634
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.05 0.001 16
+[MF-MRDR-JL] test mse: 0.19248328676802587
+[MF-MRDR-JL] test auc: 0.7374075247452232
+[MF-MRDR-JL] ndcg@20:0.673455, ndcg@50:0.745371
+[MF-MRDR-JL] recall@20:0.462496, recall@50:0.781107
+***************[MF-MRDR-JL]***************
+***************[MF-MRDR-JL]***************
+0.05 0.001 32
+[MF-MRDR-JL] test mse: 0.19269761199935836
+[MF-MRDR-JL] test auc: 0.7346552538749537
+[MF-MRDR-JL] ndcg@20:0.671658, ndcg@50:0.741837
+[MF-MRDR-JL] recall@20:0.462203, recall@50:0.777994
+***************[MF-MRDR-JL]***************

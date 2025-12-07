@@ -1,0 +1,252 @@
+***************[MF-SNIPS]***************
+0.01 1e-05 16
+[MF-SNIPS] test mse: 0.2723121991336774
+[MF-SNIPS] test auc: 0.7492700013989
+[MF-SNIPS] ndcg@20:0.622424, ndcg@50:0.731369
+[MF-SNIPS] recall@20:0.440506, recall@50:0.807674
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 1e-05 32
+[MF-SNIPS] test mse: 0.273652054950975
+[MF-SNIPS] test auc: 0.7480843432009148
+[MF-SNIPS] ndcg@20:0.628014, ndcg@50:0.736243
+[MF-SNIPS] recall@20:0.440079, recall@50:0.808269
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 5e-05 16
+[MF-SNIPS] test mse: 0.25243559381874536
+[MF-SNIPS] test auc: 0.8126028126356715
+[MF-SNIPS] ndcg@20:0.717865, ndcg@50:0.816249
+[MF-SNIPS] recall@20:0.507012, recall@50:0.874951
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 5e-05 32
+[MF-SNIPS] test mse: 0.2586125766869385
+[MF-SNIPS] test auc: 0.806101433398285
+[MF-SNIPS] ndcg@20:0.715994, ndcg@50:0.809132
+[MF-SNIPS] recall@20:0.505078, recall@50:0.863602
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 0.0001 16
+[MF-SNIPS] test mse: 0.24906231333834825
+[MF-SNIPS] test auc: 0.8024543074743431
+[MF-SNIPS] ndcg@20:0.708574, ndcg@50:0.811230
+[MF-SNIPS] recall@20:0.497000, recall@50:0.872003
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 0.0001 32
+[MF-SNIPS] test mse: 0.24977164127892887
+[MF-SNIPS] test auc: 0.7965006900240648
+[MF-SNIPS] ndcg@20:0.708455, ndcg@50:0.803202
+[MF-SNIPS] recall@20:0.496860, recall@50:0.855808
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 0.0003 16
+[MF-SNIPS] test mse: 0.2499999951873739
+[MF-SNIPS] test auc: 0.6619213064484015
+[MF-SNIPS] ndcg@20:0.575133, ndcg@50:0.654450
+[MF-SNIPS] recall@20:0.389655, recall@50:0.705859
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 0.0003 32
+[MF-SNIPS] test mse: 0.24999998060194903
+[MF-SNIPS] test auc: 0.7551608447495073
+[MF-SNIPS] ndcg@20:0.650054, ndcg@50:0.755127
+[MF-SNIPS] recall@20:0.450169, recall@50:0.821587
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 0.0005 16
+[MF-SNIPS] test mse: 0.25000000006311035
+[MF-SNIPS] test auc: 0.5002701708032105
+[MF-SNIPS] ndcg@20:0.406433, ndcg@50:0.537861
+[MF-SNIPS] recall@20:0.261813, recall@50:0.616755
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 0.0005 32
+[MF-SNIPS] test mse: 0.250000000150658
+[MF-SNIPS] test auc: 0.5017227067143284
+[MF-SNIPS] ndcg@20:0.407268, ndcg@50:0.537894
+[MF-SNIPS] recall@20:0.263061, recall@50:0.617507
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 0.001 16
+[MF-SNIPS] test mse: 0.2500000000010179
+[MF-SNIPS] test auc: 0.5000639507414261
+[MF-SNIPS] ndcg@20:0.409565, ndcg@50:0.541033
+[MF-SNIPS] recall@20:0.261902, recall@50:0.617868
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.01 0.001 32
+[MF-SNIPS] test mse: 0.2500000000366444
+[MF-SNIPS] test auc: 0.49972478604864523
+[MF-SNIPS] ndcg@20:0.408313, ndcg@50:0.540145
+[MF-SNIPS] recall@20:0.261856, recall@50:0.618004
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 1e-05 16
+[MF-SNIPS] test mse: 0.27326783192479
+[MF-SNIPS] test auc: 0.7478320257743507
+[MF-SNIPS] ndcg@20:0.620190, ndcg@50:0.730070
+[MF-SNIPS] recall@20:0.437350, recall@50:0.805919
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 1e-05 32
+[MF-SNIPS] test mse: 0.2744334889714825
+[MF-SNIPS] test auc: 0.745720959637175
+[MF-SNIPS] ndcg@20:0.619388, ndcg@50:0.729248
+[MF-SNIPS] recall@20:0.437482, recall@50:0.804235
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 5e-05 16
+[MF-SNIPS] test mse: 0.25546626887304213
+[MF-SNIPS] test auc: 0.7987413464460318
+[MF-SNIPS] ndcg@20:0.709777, ndcg@50:0.805333
+[MF-SNIPS] recall@20:0.499094, recall@50:0.860263
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 5e-05 32
+[MF-SNIPS] test mse: 0.2563554296922841
+[MF-SNIPS] test auc: 0.7808836871117617
+[MF-SNIPS] ndcg@20:0.699732, ndcg@50:0.790057
+[MF-SNIPS] recall@20:0.488310, recall@50:0.841897
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 0.0001 16
+[MF-SNIPS] test mse: 0.24946343228488696
+[MF-SNIPS] test auc: 0.7767237522450412
+[MF-SNIPS] ndcg@20:0.694623, ndcg@50:0.791360
+[MF-SNIPS] recall@20:0.483546, recall@50:0.846917
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 0.0001 32
+[MF-SNIPS] test mse: 0.25027928864860743
+[MF-SNIPS] test auc: 0.7765778326163884
+[MF-SNIPS] ndcg@20:0.697005, ndcg@50:0.789980
+[MF-SNIPS] recall@20:0.486206, recall@50:0.842241
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 0.0003 16
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 0.0003 32
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 0.0005 16
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 0.0005 32
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 0.001 16
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.03 0.001 32
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 1e-05 16
+[MF-SNIPS] test mse: 0.2727290352657748
+[MF-SNIPS] test auc: 0.7492588097079562
+[MF-SNIPS] ndcg@20:0.623114, ndcg@50:0.732102
+[MF-SNIPS] recall@20:0.437036, recall@50:0.806321
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 1e-05 32
+[MF-SNIPS] test mse: 0.2793194285071829
+[MF-SNIPS] test auc: 0.7349860202544529
+[MF-SNIPS] ndcg@20:0.606256, ndcg@50:0.719887
+[MF-SNIPS] recall@20:0.424770, recall@50:0.797359
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 5e-05 16
+[MF-SNIPS] test mse: 0.25718289121327864
+[MF-SNIPS] test auc: 0.7944296593518936
+[MF-SNIPS] ndcg@20:0.710309, ndcg@50:0.801249
+[MF-SNIPS] recall@20:0.499592, recall@50:0.853226
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 5e-05 32
+[MF-SNIPS] test mse: 0.2554481883211147
+[MF-SNIPS] test auc: 0.7998690075395318
+[MF-SNIPS] ndcg@20:0.710420, ndcg@50:0.804716
+[MF-SNIPS] recall@20:0.501895, recall@50:0.861595
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 0.0001 16
+[MF-SNIPS] test mse: 0.2502728544839924
+[MF-SNIPS] test auc: 0.7829951161996791
+[MF-SNIPS] ndcg@20:0.693521, ndcg@50:0.789836
+[MF-SNIPS] recall@20:0.483147, recall@50:0.842811
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 0.0001 32
+[MF-SNIPS] test mse: 0.2510086521056605
+[MF-SNIPS] test auc: 0.7752106810310428
+[MF-SNIPS] ndcg@20:0.693392, ndcg@50:0.787887
+[MF-SNIPS] recall@20:0.481306, recall@50:0.839651
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 0.0003 16
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 0.0003 32
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 0.0005 16
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 0.0005 32
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 0.001 16
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************
+***************[MF-SNIPS]***************
+0.05 0.001 32
+[MF-SNIPS] test mse: 0.25
+[MF-SNIPS] test auc: 0.5
+[MF-SNIPS] ndcg@20:0.409679, ndcg@50:0.541208
+[MF-SNIPS] recall@20:0.261929, recall@50:0.617971
+***************[MF-SNIPS]***************

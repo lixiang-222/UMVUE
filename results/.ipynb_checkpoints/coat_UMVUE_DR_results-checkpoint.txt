@@ -1,0 +1,144 @@
+Trial 0
+Params: pred_lamb=0.002026, impu_lamb=0.002993, prop_lamb=0.004627, pred_lr=0.020000, impu_lr=0.005000, prop_lr=0.010000, G=5, emb=16, alpha=9.670900, beta=0.380105, theta=0.098137, gamma=0.045171, k=10
+Training time: 4.08s, Converged epoch: 8
+mse: 0.250000
+auc: 0.507542
+ndcg@1: 0.500000
+ndcg@3: 0.436692
+ndcg@5: 0.467141
+ndcg@10: 0.562737
+recall@1: 0.468966
+recall@3: 0.394828
+recall@5: 0.459885
+recall@10: 0.656412
+precision@1: 0.468966
+precision@3: 0.374713
+precision@5: 0.388966
+precision@10: 0.395517
+f1@1: 0.468966
+f1@3: 0.381034
+f1@5: 0.407737
+f1@10: 0.458052
+objective: 0.974683
+--------------------------------------------------
+
+Trial 1
+Params: pred_lamb=0.004530, impu_lamb=0.000008, prop_lamb=0.003571, pred_lr=0.005000, impu_lr=0.100000, prop_lr=0.050000, G=4, emb=4, alpha=7.179125, beta=0.808309, theta=0.453233, gamma=0.046785, k=10
+Training time: 2.58s, Converged epoch: 7
+mse: 0.250070
+auc: 0.517407
+ndcg@1: 0.434483
+ndcg@3: 0.465011
+ndcg@5: 0.479916
+ndcg@10: 0.570124
+recall@1: 0.403448
+recall@3: 0.447126
+recall@5: 0.471379
+recall@10: 0.659650
+precision@1: 0.403448
+precision@3: 0.425287
+precision@5: 0.414483
+precision@10: 0.406897
+f1@1: 0.403448
+f1@3: 0.431954
+f1@5: 0.431122
+f1@10: 0.470117
+objective: 0.997323
+--------------------------------------------------
+
+Trial 2
+Params: pred_lamb=0.004661, impu_lamb=0.000622, prop_lamb=0.000689, pred_lr=0.020000, impu_lr=0.100000, prop_lr=0.005000, G=5, emb=16, alpha=0.776891, beta=0.640845, theta=0.861823, gamma=0.098269, k=15
+Training time: 2.86s, Converged epoch: 8
+mse: 0.250000
+auc: 0.502602
+ndcg@1: 0.448276
+ndcg@3: 0.426083
+ndcg@5: 0.458036
+ndcg@10: 0.558774
+recall@1: 0.417241
+recall@3: 0.394253
+recall@5: 0.456609
+recall@10: 0.664330
+precision@1: 0.417241
+precision@3: 0.373563
+precision@5: 0.389655
+precision@10: 0.397586
+f1@1: 0.417241
+f1@3: 0.379770
+f1@5: 0.407663
+f1@10: 0.461648
+objective: 0.960638
+--------------------------------------------------
+
+Trial 3
+Params: pred_lamb=0.002065, impu_lamb=0.001600, prop_lamb=0.004992, pred_lr=0.010000, impu_lr=0.020000, prop_lr=0.050000, G=4, emb=8, alpha=5.067183, beta=0.400856, theta=0.193722, gamma=0.045149, k=10
+Training time: 2.85s, Converged epoch: 8
+mse: 0.249595
+auc: 0.632761
+ndcg@1: 0.489655
+ndcg@3: 0.533712
+ndcg@5: 0.543634
+ndcg@10: 0.621676
+recall@1: 0.458621
+recall@3: 0.520115
+recall@5: 0.539368
+recall@10: 0.701099
+precision@1: 0.458621
+precision@3: 0.489655
+precision@5: 0.466207
+precision@10: 0.430690
+f1@1: 0.458621
+f1@3: 0.498736
+f1@5: 0.485878
+f1@10: 0.498516
+objective: 1.176395
+--------------------------------------------------
+
+Trial 4
+Params: pred_lamb=0.003215, impu_lamb=0.004678, prop_lamb=0.004474, pred_lr=0.100000, impu_lr=0.100000, prop_lr=0.010000, G=3, emb=4, alpha=0.858995, beta=0.426381, theta=0.218636, gamma=0.076545, k=20
+Training time: 2.88s, Converged epoch: 8
+mse: 0.249901
+auc: 0.511180
+ndcg@1: 0.458621
+ndcg@3: 0.451282
+ndcg@5: 0.471246
+ndcg@10: 0.560464
+recall@1: 0.427586
+recall@3: 0.423563
+recall@5: 0.464023
+recall@10: 0.652107
+precision@1: 0.427586
+precision@3: 0.406897
+precision@5: 0.410345
+precision@10: 0.406207
+f1@1: 0.427586
+f1@3: 0.411839
+f1@5: 0.425134
+f1@10: 0.467846
+objective: 0.982426
+--------------------------------------------------
+
+Trial 5
+Params: pred_lamb=0.003785, impu_lamb=0.004703, prop_lamb=0.000377, pred_lr=0.005000, impu_lr=0.010000, prop_lr=0.050000, G=3, emb=4, alpha=2.131869, beta=0.322921, theta=0.839648, gamma=0.079893, k=10
+Training time: 4.65s, Converged epoch: 7
+mse: 0.250619
+auc: 0.495886
+ndcg@1: 0.431034
+ndcg@3: 0.444719
+ndcg@5: 0.458365
+ndcg@10: 0.546073
+recall@1: 0.400000
+recall@3: 0.421839
+recall@5: 0.448391
+recall@10: 0.632042
+precision@1: 0.400000
+precision@3: 0.412644
+precision@5: 0.403448
+precision@10: 0.398966
+f1@1: 0.400000
+f1@3: 0.415977
+f1@5: 0.418041
+f1@10: 0.458582
+objective: 0.954251
+--------------------------------------------------
+
