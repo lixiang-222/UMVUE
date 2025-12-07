@@ -24,7 +24,7 @@ pandas == 2.0.0
 
 ### Running experiments:
 ```bash
-python run.py --dataset coat --batch_size 128
-python run.py --dataset yahoo --batch_size 1024
-python run.py --dataset kuai --batch_size 512
+python run.py --dataset coat
+python run.py --dataset yahoo
+python run.py --dataset kuai
 ```
