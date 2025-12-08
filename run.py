@@ -15,7 +15,7 @@ import pickle
 from tqdm import tqdm
 
 from dataset import load_data
-from matrix_factorization_ori import ours_icdmw_DR, UMVUE_DR, MF
+from matrix_factorization_ori import UMVUE_DR, MF
 from itertools import product
 from utils import gini_index, ndcg_func, get_user_wise_ctr, rating_mat_to_sample, binarize, shuffle, minU, recall_func, precision_func, f1_func
 
@@ -240,7 +240,7 @@ def generate_knn_matrix(dataset_name, x_train, y_train, x_test, y_test,
     # knn_matrix = np.array([np.mean(obs[indices[i]]) for i in range(len(x_train))])
     
     # 6. 保存文件
-    knn_file = f"{dataset_name}_ours_icdmw_knn.pkl"
+    knn_file = f"{dataset_name}_knn.pkl"
     with open(knn_file, "wb") as f:
         pickle.dump(knn_matrix, f)
         f.close()
